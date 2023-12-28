@@ -1,0 +1,4 @@
+@import url('./main-layout.css');
+@import url('./views/tableaudebord-view.css');
+@import url('./views/projets-view.css');
+@import url('./views/collaborative-master-detail-view.css');
